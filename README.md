@@ -58,14 +58,15 @@ http://localhost:3000
 
 How to Use
 
-Enter a unique username in the login popup
-Click Join Chat
-Type messages and send using Enter key or Send button
-See the active users on the left panel
-Open multiple browser tabs to test real-time messaging
+- Enter a unique username in the login popup
+- Click Join Chat
+- Type messages and send using Enter key or Send button
+- See the active users on the left panel
+- Open multiple browser tabs to test real-time messaging
 
 Notes
-Make sure usernames are unique; duplicates are not allowed
-Empty messages are ignored
-Messages display sender name and timestamp
-Fully functional in multiple browser windows or devices on the same network
+
+- Make sure usernames are unique; duplicates are not allowed
+- Empty messages are ignored
+- Messages display sender name and timestamp
+- Fully functional in multiple browser windows or devices on the same network
