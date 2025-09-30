@@ -1,0 +1,16 @@
+{
+  "name": "real-time-messaging-app-with-socket.io",
+  "version": "1.0.0",
+  "description": "Real-Time Messaging App with Socket.IO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
