@@ -1,4 +1,3 @@
-/* Reset */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -6,7 +5,6 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* Login Overlay */
 .overlay {
   position: fixed;
   top: 0;
@@ -63,14 +61,12 @@
   color: red;
 }
 
-/* Chat Container */
 .chat-container {
   display: flex;
   height: 100vh;
   background-color: #f0f2f5;
 }
 
-/* Users Panel */
 .users-panel {
   width: 250px;
   background-color: #fff;
@@ -92,7 +88,6 @@
   list-style: none;
 }
 
-/* Chat Panel */
 .chat-panel {
   flex: 1;
   display: flex;
